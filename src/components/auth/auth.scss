@@ -1,0 +1,31 @@
+.g-dflex-center {
+    min-height: 100vh;
+  }
+  .icon-logo {
+    width: 200px;
+  }
+  .g-btn {
+    min-width: initial;
+    margin-top: 22px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+  }
+  .icon-github {
+    width: 23px;
+    height: 23px;
+    margin-left: 12px;
+  }
+  .auth-txt {
+    color: #6F6F6F;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 54px;
+  }
+  .main-info {
+    min-width: 50%;
+    max-width: 50%;
+    width: 50%;
+    padding-left: 10vw;
+  }

@@ -1,0 +1,25 @@
+.post-avatar {
+  border: 0.5px solid rgba(0, 0, 0, 0.1);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 100%;
+  max-width: 44px;
+  min-width: 44px;
+  width: 44px;
+  margin-right: 14px;
+}
+
+.post-avatar img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  border-radius: 100%;
+}
+
+.post-username {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: -0.1px;
+}

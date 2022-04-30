@@ -1,0 +1,57 @@
+[
+    {
+        "id": "0",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Joe"
+    },
+
+    {
+        "id": "1",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Andrew"
+    },
+
+    {
+        "id": "2",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Marina"
+    },
+
+    {
+        "id": "3",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Piter"
+    },
+    {
+        "id": "4",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Gartor"
+    },
+    {
+        "id": "5",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Misha"
+    },
+    {
+        "id": "6",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Grisha"
+    },
+    {
+        "id": "7",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Pasha"
+    },
+    {
+        "id": "8",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Dasha"
+    },
+    {
+        "id": "9",
+        "avatar": "https://picsum.photos/300/300",
+        "username": "Masha"
+    }
+
+
+]

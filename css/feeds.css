@@ -1,0 +1,44 @@
+.icon {
+  color: #262626;
+  width: 25px;
+  height: 25px;
+  margin-right: 25px;
+}
+
+.stories {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.icon-avatar {
+  width: 35px;
+  height: 35px;
+  margin-right: 25px;
+}
+
+.icon-exit {
+  width: 25px;
+  height: 20px;
+}
+
+.headline {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.icon-gittogram {
+  color: #262626;
+  width: 174px;
+  height: 35px;
+}

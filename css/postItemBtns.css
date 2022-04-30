@@ -1,0 +1,62 @@
+.post-items-btns {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.icon-star {
+  width: 15px;
+  max-width: 15px;
+  min-width: 15px;
+  margin-right: 5px;
+}
+
+.icon-star svg {
+  fill: #586069;
+}
+
+.icon-fork {
+  width: 12px;
+  max-width: 12px;
+  min-width: 12px;
+  margin-right: 5px;
+}
+
+.icon-fork svg {
+  fill: #586069;
+}
+
+.btns-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #24292E;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 5px 12px;
+  line-height: 18px;
+  background: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 0;
+  margin: 0;
+}
+
+.btns-item:hover {
+  cursor: pointer;
+}
+
+.btns-item:first-child {
+  border-radius: 6px 0px 0px 6px;
+}
+
+.btns-item:last-child {
+  border-radius: 0px 6px 6px 0px;
+}
