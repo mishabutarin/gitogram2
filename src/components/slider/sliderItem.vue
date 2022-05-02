@@ -31,12 +31,12 @@
     <template v-if="isActive">
         <button v-if="btnsShown.includes('next')" class="btn btn-next" @click="$emit('nextSlide')">
           <div class="icon-arrow">
-            <icon-comp name="ArrowIcon"/>
+            <iconComp name="ArrowIcon"/>
             </div>
         </button>
         <button v-if="btnsShown.includes('prev')" class="btn btn-prev" @click="$emit('prevSlide')">
           <div class="icon-arrow">
-            <icon-component name="ArrowIcon"/>
+            <iconComp name="ArrowIcon"/>
           </div>
       </button>
     </template>
